@@ -114,6 +114,7 @@
           },
           "configurations": {
             "production": {
+              "bundleDependencies": "all",
               "fileReplacements": [
                 {
                   "replace": "src/environments/environment.ts",
